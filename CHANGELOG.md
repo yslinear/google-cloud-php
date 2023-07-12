@@ -1,5 +1,51 @@
 # Changelog
 
+## 0.212.0
+
+<details><summary>google/cloud-ai-platform 0.21.0</summary>
+
+
+
+### Features
+
+* Add data_item_count to Dataset ([#6437](https://github.com/googleapis/google-cloud-php/issues/6437)) ([f1f2c36](https://github.com/googleapis/google-cloud-php/commit/f1f2c36fbff1768fda067657a0cb27628b8378de))
+* Add DeleteSavedQuery to DatasetService ([f1f2c36](https://github.com/googleapis/google-cloud-php/commit/f1f2c36fbff1768fda067657a0cb27628b8378de))
+* Add JOB_STATE_PARTIALLY_SUCCEEDED to JobState ([f1f2c36](https://github.com/googleapis/google-cloud-php/commit/f1f2c36fbff1768fda067657a0cb27628b8378de))
+* Add pipeline_job to Model ([f1f2c36](https://github.com/googleapis/google-cloud-php/commit/f1f2c36fbff1768fda067657a0cb27628b8378de))
+* Add reserved_ip_ranges to PipelineJob ([f1f2c36](https://github.com/googleapis/google-cloud-php/commit/f1f2c36fbff1768fda067657a0cb27628b8378de))
+
+</details>
+
+<details><summary>google/cloud-compute 1.11.0</summary>
+
+
+
+### Features
+
+* Update Compute Engine API to revision 20230701 ([#821](https://github.com/googleapis/google-cloud-php/issues/821)) ([#6431](https://github.com/googleapis/google-cloud-php/issues/6431)) ([1635f0f](https://github.com/googleapis/google-cloud-php/commit/1635f0f55c1ff7a6146f74a64b65d7430bf0aba1))
+
+</details>
+
+<details><summary>google/cloud-deploy 0.11.0</summary>
+
+
+
+### Features
+
+* Added support routeUpdateWaitTime field for Deployment Strategies ([#6434](https://github.com/googleapis/google-cloud-php/issues/6434)) ([2a17e33](https://github.com/googleapis/google-cloud-php/commit/2a17e33eb8b9f3b48a0434a480a909104a58047e))
+
+</details>
+
+<details><summary>google/cloud-dialogflow 1.7.1</summary>
+
+
+
+### Documentation
+
+* Added google.api.field_behavior for some fields in audio_config ([#6430](https://github.com/googleapis/google-cloud-php/issues/6430)) ([e7b0f39](https://github.com/googleapis/google-cloud-php/commit/e7b0f3955357ca7631ff548cb2bbeaa769c75178))
+
+</details>
+
 ## 0.211.0
 
 <details><summary>google/cloud-access-approval 1.1.2</summary>
